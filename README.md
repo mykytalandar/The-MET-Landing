@@ -40,3 +40,25 @@ This project is based on the following Figma design:
 - Optimized performance with lightweight SCSS and HTML structure
 
 - Easy navigation and clear information hierarchy
+
+## How to Run the Project Locally
+
+Follow these steps to set up and run the project on your local machine:
+
+- Clone the repository
+git clone https://github.com/mykytalandar/The-MET-Landing.git
+
+- Navigate into the project directory
+cd The-MET-Landing
+
+- Install dependencies
+npm install
+
+- Start the development server
+npm run dev
+
+- Open the project in your browser
+
+**Node.js version**
+
+Make sure you are using Node.js v18.17.0 or higher.
